@@ -74,5 +74,5 @@ MIT License – feel free to use, modify, and build upon this project.
 ## 👥 Authors
 
 * **Gautam Jayakishan** – [LinkedIn](https://www.linkedin.com/in/gautam-jayakishan-350a8b1b8/)
-* **Aadvik Mishra** – [LinkedIn](https://www.linkedin.com/in/aadvik-mishra-2a8981252/) *(add link if you want to include Aadvik’s profile)*
+* **Aadvik Mishra** – [LinkedIn](https://www.linkedin.com/in/aadvik-mishra-2a8981252/) 
 
